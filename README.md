@@ -9,7 +9,7 @@ This project was designed to practice data wrangling, plotting, statistical anal
 ## Questions to answer
 
 * Are the CO2 levels in the atmosphere increasing?
-* Is therea correlation between the temperature and CO2 trend?
+* Is there a correlation between the temperature and CO2 trend?
 * Are the ice sheets melting and there is a difference between hemispheres? is there a correlation between the ice sheets behavious and CO2 and temperature?
   
 ## Datasets source
