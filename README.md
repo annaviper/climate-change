@@ -14,13 +14,13 @@ This project was designed to practice data wrangling, plotting, statistical anal
   
 ## Datasets source and codebook
   
-[Carbon dioxide in the atmosphere](https://www.kaggle.com/ucsandiego/carbon-dioxide)
+[Carbon dioxide in the atmosphere](https://www.kaggle.com/ucsandiego/carbon-dioxide)  
 Seasonally Adjusted CO2 Fit: ppm
   
-[Earth Surface Temperature](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data#GlobalTemperatures.csv)
+[Earth Surface Temperature](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data#GlobalTemperatures.csv)  
 All temperatures are in the Celsius scale.
       
-[Sea ice extent](https://www.kaggle.com/nsidcorg/daily-sea-ice-extent-data)
+[Sea ice extent](https://www.kaggle.com/nsidcorg/daily-sea-ice-extent-data)  
 Extent: 10^6 sq km
     
 ## Author
