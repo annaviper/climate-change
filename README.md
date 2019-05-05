@@ -12,13 +12,16 @@ This project was designed to practice data wrangling, plotting, statistical anal
 * Is there a correlation between the temperature and CO2 trend?
 * Are the ice sheets melting and there is a difference between hemispheres? is there a correlation between the ice sheets behavious and CO2 and temperature?
   
-## Datasets source
+## Datasets source and codebook
   
 [Carbon dioxide in the atmosphere](https://www.kaggle.com/ucsandiego/carbon-dioxide)
+Seasonally Adjusted CO2 Fit: ppm
   
 [Earth Surface Temperature](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data#GlobalTemperatures.csv)
+All temperatures are in the Celsius scale.
       
 [Sea ice extent](https://www.kaggle.com/nsidcorg/daily-sea-ice-extent-data)
+Extent: 10^6 sq km
     
 ## Author
   
