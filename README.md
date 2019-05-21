@@ -12,8 +12,8 @@ This project was designed to practice data wrangling, plotting, statistical anal
 * Is there a correlation between the temperature and CO2 trend?
 * Are the ice sheets melting and there is a difference between hemispheres? Is there a correlation between the ice sheets behaviour and CO2 and temperature?
 
-    Null hypothesis: The carbon dioxide and temperature have no effect on the ice sheet extent.
-    Alternative hypothesis: The carbon dioxide and temperature have an effect on the ice sheet extent.
+> Null hypothesis: The carbon dioxide and temperature have no effect on the ice sheet extent.*
+> Alternative hypothesis: The carbon dioxide and temperature have an effect on the ice sheet extent.*
   
 ## Datasets source and codebook
 
