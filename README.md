@@ -27,6 +27,10 @@ All temperatures are in the Celsius scale.
       
 [Sea ice extent](https://www.kaggle.com/nsidcorg/daily-sea-ice-extent-data)  
 Extent: 10^6 sq km
+
+# Slides (WIP)
+
+[Slides](https://docs.google.com/presentation/d/1Bu-eDs7cVVOR8x1C-pUhmk3w-I-0TQXR_QCR5A1tVr0/edit?usp=sharing) for the project.
     
 ## Author
   
