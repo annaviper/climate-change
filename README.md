@@ -6,7 +6,7 @@ First project of the Data Analytics bootcamp at Ironhack Barcelona.
    
 This project was designed to practice data wrangling, plotting, statistical analysis and getting insights from the information in  datasets. The topic chosen is the melting of the poles and their relation with the levels of CO2 in the atmosphere and global temperature.
 
-### Ideas and hypothesis
+## Ideas and hypothesis
   
 * Are the CO2 levels in the atmosphere increasing? And the temperature?
 * Is there a correlation between the temperature and CO2 trend?
@@ -15,9 +15,9 @@ This project was designed to practice data wrangling, plotting, statistical anal
 > Null hypothesis: The carbon dioxide and temperature have no effect on the ice sheet extent.  
 > Alternative hypothesis: The carbon dioxide and temperature have an effect on the ice sheet extent.
   
-## Datasets source and codebook
+## Datasets source
 
-The three datasets are from Kaggle. 
+The three datasets are from Kaggle: 
   
 [Carbon dioxide in the atmosphere](https://www.kaggle.com/ucsandiego/carbon-dioxide)  
 Seasonally Adjusted CO2 Fit: ppm
@@ -28,10 +28,10 @@ All temperatures are in the Celsius scale.
 [Sea ice extent](https://www.kaggle.com/nsidcorg/daily-sea-ice-extent-data)  
 Extent: 10^6 sq km
 
-# Slides (WIP)
+## Web app
 
-[Slides](https://docs.google.com/presentation/d/1Bu-eDs7cVVOR8x1C-pUhmk3w-I-0TQXR_QCR5A1tVr0/edit?usp=sharing) for the project.
-    
+TBA
+
 ## Author
   
 [Anna Vidal](https://github.com/annaviper)
