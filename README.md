@@ -1,10 +1,6 @@
 # Is the ice melting?
   
-First project of the Data Analytics bootcamp at Ironhack Barcelona.
-  
-## Overview
-   
-This project was designed to practice data wrangling, plotting, statistical analysis and getting insights from the information in  datasets. The topic chosen is the melting of the poles and their relation with the levels of CO2 in the atmosphere and global temperature.
+Analysis of carbon dioxide levels in the atmosphere, temperature and ice extent in the poles.
 
 ## Ideas and hypothesis
   
@@ -31,7 +27,3 @@ Extent: 10^6 sq km
 ## Web app
 
 TBA
-
-## Author
-  
-[Anna Vidal](https://github.com/annaviper)
